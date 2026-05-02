@@ -1,0 +1,16 @@
+{
+  "float": [
+    { "name": "page_text_font_size", "value": "50fp" },
+    { "name": "title_font_size", "value": "11fp" },
+    { "name": "nav_header_title_size", "value": "7fp" },
+    { "name": "bpm_font_size", "value": "26fp" },
+    { "name": "stat_value_size", "value": "14fp" },
+    { "name": "stat_label_size", "value": "8fp" },
+    { "name": "console_font_size", "value": "7fp" },
+    { "name": "btn_font_size", "value": "11fp" },
+    { "name": "detail_title_size", "value": "12fp" },
+    { "name": "detail_value_size", "value": "16fp" },
+    { "name": "detail_label_size", "value": "9fp" },
+    { "name": "section_title_size", "value": "12fp" }
+  ]
+}

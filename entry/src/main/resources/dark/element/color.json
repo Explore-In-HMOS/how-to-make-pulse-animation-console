@@ -1,0 +1,19 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#000000" },
+    { "name": "console_bg", "value": "#000000" },
+    { "name": "console_bg_secondary", "value": "#0A0A0A" },
+    { "name": "pulse_green", "value": "#00FF88" },
+    { "name": "pulse_cyan", "value": "#00E5FF" },
+    { "name": "pulse_amber", "value": "#FFB300" },
+    { "name": "pulse_purple", "value": "#CE93D8" },
+    { "name": "pulse_red", "value": "#FF5252" },
+    { "name": "text_primary", "value": "#FFFFFF" },
+    { "name": "text_secondary", "value": "#AAAAAA" },
+    { "name": "ring_outer", "value": "#0D2626" },
+    { "name": "log_text", "value": "#66BB6A" },
+    { "name": "btn_detail", "value": "#1565C0" },
+    { "name": "btn_theme", "value": "#6A1B9A" },
+    { "name": "divider", "value": "#1A1A1A" }
+  ]
+}

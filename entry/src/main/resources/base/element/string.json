@@ -1,0 +1,20 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Pulse Animation Console" },
+    { "name": "EntryAbility_desc", "value": "Live pulse animation status console for wearable" },
+    { "name": "EntryAbility_label", "value": "Pulse Console" },
+    { "name": "title_main", "value": "PULSE CONSOLE" },
+    { "name": "title_detail", "value": "Pulse Details" },
+    { "name": "title_appearance", "value": "Appearance" },
+    { "name": "label_bpm", "value": "BPM" },
+    { "name": "label_fps", "value": "FPS" },
+    { "name": "label_idle", "value": "IDLE" },
+    { "name": "label_frames", "value": "FRAMES" },
+    { "name": "btn_details", "value": "Details" },
+    { "name": "btn_theme", "value": "Theme" },
+    { "name": "status_ready", "value": "Ready" },
+    { "name": "status_active", "value": "Active" },
+    { "name": "status_paused", "value": "Paused" },
+    { "name": "tap_to_start", "value": "Tap pulse to start" }
+  ]
+}
